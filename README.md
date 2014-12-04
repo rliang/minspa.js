@@ -19,7 +19,7 @@ spa2('<a></a>');
 <body>
   <p>
     <div>
-     <a></a>
+      <a></a>
     </div>
   </p>
 </body>
