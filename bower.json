@@ -1,4 +1,22 @@
 {
-  "name": "minspa.js",
-  "private": true
+  "name": "minspa",
+  "main": "minspa.js",
+  "version": "0.1.0",
+  "homepage": "https://github.com/rliang/minspa.js",
+  "authors": [
+    "Ricardo Liang <ricardoliang@gmail.com>"
+  ],
+  "description": "A minimalist single-page-application engine.",
+  "keywords": [
+    "single-page",
+    "spa"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
 }
